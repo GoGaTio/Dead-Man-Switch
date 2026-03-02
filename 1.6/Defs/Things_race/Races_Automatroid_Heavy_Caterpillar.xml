@@ -21,6 +21,10 @@
       <baseHealthScale>2.5</baseHealthScale>
       <mechWeightClass>Heavy</mechWeightClass>
     </race>
+    <butcherProducts>
+      <DMS_ChunkSlag>1</DMS_ChunkSlag>
+      <Steel>70</Steel>
+    </butcherProducts>
   </ThingDef>
   
   <ThingDef ParentName="BaseMechRace_Mammoth">
