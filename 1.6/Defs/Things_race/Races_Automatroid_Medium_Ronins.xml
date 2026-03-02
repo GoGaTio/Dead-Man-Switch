@@ -195,6 +195,10 @@
         </UsableTechLevels>
       </li>
     </modExtensions>
+    <butcherProducts>
+      <DMS_ChunkSlag>1</DMS_ChunkSlag>
+      <Tungsteel>50</Tungsteel>
+    </butcherProducts>
     <tools Inherit="False">
       <li>
         <label>assault shield</label>
@@ -314,6 +318,10 @@
         <BypassUsableWeapons/>
       </li>
     </modExtensions>
+     <butcherProducts>
+      <DMS_ChunkSlag>1</DMS_ChunkSlag>
+      <Tungsteel>60</Tungsteel>
+    </butcherProducts>
     <damageMultipliers>
       <li>
         <damageDef>Burn</damageDef>
@@ -413,6 +421,10 @@
         <BypassUsableWeapons/>
       </li>
     </modExtensions>
+    <butcherProducts>
+      <DMS_ChunkSlag>1</DMS_ChunkSlag>
+      <Tungsteel>50</Tungsteel>
+    </butcherProducts>
     <tools Inherit="False">
       <li>
         <label>ballistic shield</label>
@@ -545,6 +557,10 @@
         <BypassUsableWeapons/>
       </li>
     </modExtensions>
+    <butcherProducts>
+      <DMS_ChunkSlag>1</DMS_ChunkSlag>
+      <Tungsteel>35</Tungsteel>
+    </butcherProducts>
   </ThingDef>
 
   <PawnKindDef ParentName="BaseAutomatroidKind">  <!-- DMS_Mech_Phalanx 方陣:量產近戰型  -->
